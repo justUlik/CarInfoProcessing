@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Utility/1.0.0": {
+      "type": "project",
+      "path": "../Utility/Utility.csproj",
+      "msbuildProject": "../Utility/Utility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Utility >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ulyanaeskova/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/UserInterface.csproj",
+      "projectName": "UserInterface",
+      "projectPath": "/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/UserInterface.csproj",
+      "packagesPath": "/Users/ulyanaeskova/.nuget/packages/",
+      "outputPath": "/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ulyanaeskova/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/Utility/Utility.csproj": {
+              "projectPath": "/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/Utility/Utility.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

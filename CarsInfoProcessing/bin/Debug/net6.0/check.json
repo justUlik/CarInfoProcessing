@@ -1,0 +1,1 @@
+[{"car_id": 75, "brand": "Toyota", "model": "Truck", "year": 2014, "price": 25305.48, "is_used": true, "features": ["Bluetooth", "Bluetooth", "GPS"]}, {"car_id": 79, "brand": "Ford", "model": "SUV", "year": 2013, "price": 34705.07, "is_used": true, "features": ["Bluetooth", "Bluetooth", "GPS"]}]

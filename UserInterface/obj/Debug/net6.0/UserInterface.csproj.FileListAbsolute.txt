@@ -1,0 +1,15 @@
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/bin/Debug/net6.0/Utility.dll
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/bin/Debug/net6.0/Utility.pdb
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CopyComplete
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/refint/UserInterface.dll
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/ulyanaeskova/RiderProjects/CarsInfoProcessing/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
